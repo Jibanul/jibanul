@@ -64,7 +64,7 @@
 
 - 🚀 Building my <strong>portfolio website</strong> - <a href="https://github.com/Jibanul/Personal-Website" target="_blank">GitHub Repo</a>
 - 📚 Creating a video on the technical details of **DeepSeek-R1** for my YouTube channel.
-- ✨ Exploring **LLM applications**.
+- ✨ Exploring advancements and applications of **LLMs**.
 - 🌱 Preparing for the **A1 level German language test**.
 
 ---
@@ -72,14 +72,14 @@
 ## 🌐 Connect with Me
 
 <p align="center">
+  <a href="https://jibanul.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-FF5722?style=flat-square&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
   <a href="https://linkedin.com/in/jibanul" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://youtube.com/@lightscameravision" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://jibanul.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Website-FF5722?style=flat-square&logo=google-chrome&logoColor=white" alt="Website">
   </a>
   <a href="https://scholar.google.com/citations?user=g81dybwAAAAJ&hl=en" target="_blank">
     <img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar">
