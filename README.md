@@ -63,7 +63,7 @@
 ## 🌍 What I’m Working On
 
 - ✨ Exploring advancements and applications of **LLMs** and **Multimodal Learning**.
-- 📚 Creating a video on the technical details of **DeepSeek-R1** for my YouTube channel.
+- 📚 Creating videos on the technical details of recent LLMs for my YouTube channel.
 - 🚀 Building my <strong>portfolio website</strong> - <a href="https://github.com/Jibanul/Personal-Website" target="_blank">GitHub Repo</a>
 - 🌱 Preparing for the **A1 level German language test**.
 
