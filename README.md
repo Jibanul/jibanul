@@ -4,7 +4,7 @@
 
 - 🎓 **PhD in Computer Vision** | Expertise in machine learning, deep learning, small target detection, and vision-language models.
 - 💡 Passionate about **Generative AI**, **LLMs** and **Predictive Modeling**.
-- 🎥 Creator of **Lights, Camera, Vision**, where I simplify AI and machine learning concepts for learners worldwide.
+- 🎥 Creator of **[Lights, Camera, Vision](https://youtube.com/@lightscameravision)**, where I simplify AI and machine learning concepts for learners worldwide. 🚀
 - 🌎 Avid **traveler** 🇺🇸 🇧🇩 🇨🇦 🇫🇷 🇨🇭 🇩🇪 🇳🇱 🇧🇪 🇧🇸
 
 ---
