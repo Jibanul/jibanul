@@ -86,6 +86,29 @@
   </a>
 </p>
 
+## 📊 GitHub Stats:
+<!--
+![](https://github-readme-stats.vercel.app/api?username=jibanul&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jibanul&theme=dark&hide_border=false)<br/>
+-->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibanul&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=normal" />
+</p
+
+
+
+
+
+
+
+
+
+<!--
+---
+[![](https://visitcount.itsvg.in/api?id=jibanul&icon=0&color=0)](https://visitcount.itsvg.in)
+-->
+
 
 <!--
 **Jibanul/jibanul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
