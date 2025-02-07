@@ -93,12 +93,8 @@
 -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibanul&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=normal" />
-</p
-
-
-
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibanul&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&langs_count=6&layout=normal" />
+</p>
 
 
 
