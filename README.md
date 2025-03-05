@@ -62,7 +62,7 @@
 
 ## 🌍 What I’m Working On
 
-- ✨ Exploring advancements and applications of **foundation model**, **LLMs** and **Multimodal Learning**.
+- ✨ Exploring advancements and applications of **foundation model**, **Advanced Machine Learning** and **Multimodal Learning**.
 - 🤖 Working on **Agentic Object Counting System** 
 - 📚 Creating videos on the technical details of recent LLMs for my YouTube channel.
 - 🚀 Building my <strong>portfolio website</strong> - <a href="https://github.com/Jibanul/Personal-Website" target="_blank">GitHub Repo</a>
