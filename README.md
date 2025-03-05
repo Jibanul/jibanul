@@ -2,8 +2,9 @@
 
 ## 🌟 About Me
 
-- 🎓 **PhD in Computer Vision** | Expertise in machine learning, deep learning, small target detection, and vision-language models.
-- 💡 Passionate about **Generative AI**, **LLMs** and **Predictive Modeling**.
+- 🎓 **PhD in Computer Science** | **MS in Statistical Computing**
+  - Expertise in machine learning, statistical analysis, deep learning, and computer vision.
+- 💡 Passionate about **Predictive Modeling**, and **Multi-modal Learning**.
 - 🎥 Creator of **[Lights, Camera, Vision](https://youtube.com/@lightscameravision)**, where I simplify AI and machine learning concepts for learners worldwide. 🚀
 - 🌎 Avid **traveler** 🇺🇸 🇧🇩 🇨🇦 🇫🇷 🇨🇭 🇩🇪 🇳🇱 🇧🇪 🇧🇸
 
@@ -66,7 +67,7 @@
 - 🤖 Working on **Agentic Object Counting System** 
 - 📚 Creating videos on the technical details of recent LLMs for my YouTube channel.
 - 🚀 Building my <strong>portfolio website</strong> - <a href="https://github.com/Jibanul/Personal-Website" target="_blank">GitHub Repo</a>
-- 🌱 Preparing for the **A1 level German language test**.
+- 🌱 Learning a **new language**.
 
 ---
 
