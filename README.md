@@ -5,7 +5,10 @@
 - 🎓 **PhD in Computer Science** | **MS in Statistical Computing**
   - Expertise in machine learning, statistical analysis, deep learning, and computer vision.
 - 💡 Passionate about **Predictive Modeling**, and **Multi-modal Learning**.
+<!--
 - 🎥 Creator of **[Lights, Camera, Vision](https://youtube.com/@lightscameravision)**, where I simplify AI and machine learning concepts for learners worldwide. 🚀
+-->
+- 🎥 Creator of **[Lights, Camera, Vision](https://youtube.com/@lightscameravision)**. 🚀
 - 🌎 Avid **traveler** 🇺🇸 🇧🇩 🇨🇦 🇫🇷 🇨🇭 🇩🇪 🇳🇱 🇧🇪 🇧🇸
 
 ---
