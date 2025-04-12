@@ -7,9 +7,9 @@
 - 💡 Passionate about **Predictive Modeling**, and **Multi-modal Learning**.
 <!--
 - 🎥 Creator of **[Lights, Camera, Vision](https://youtube.com/@lightscameravision)**, where I simplify AI and machine learning concepts for learners worldwide. 🚀
+- 🌎 Avid **traveler** 🇺🇸 🇧🇩 🇨🇦 🇫🇷 🇨🇭 🇩🇪 🇳🇱 🇧🇪 🇧🇸
 -->
 - 🎥 Creator of **[Lights, Camera, Vision](https://youtube.com/@lightscameravision)**. 🚀
-- 🌎 Avid **traveler** 🇺🇸 🇧🇩 🇨🇦 🇫🇷 🇨🇭 🇩🇪 🇳🇱 🇧🇪 🇧🇸
 
 ---
 
